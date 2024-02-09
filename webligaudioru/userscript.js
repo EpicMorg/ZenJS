@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         web.ligaudio.ru Safe dowloader
 // @namespace    epicmorg.ligaudioru.downloader
-// @version      1.0.0.1
-// @description  Download files with safe without annoyng ads
+// @version      1.0.0.2
+// @description  Download files with safe without annoying ads
 // @license      MIT
 // @author       EpicMorg DevTeam
 // @grant        unsafeWindow
